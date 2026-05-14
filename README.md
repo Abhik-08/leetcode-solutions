@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhik-08/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/Abhik-08/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,13 +28,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Abhik-08/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Abhik-08/leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Abhik-08/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Abhik-08/leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Abhik-08/leetcode-solutions/tree/master/0735-asteroid-collision) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Abhik-08/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
