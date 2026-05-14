@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhik-08/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Abhik-08/leetcode-solutions/tree/master/0735-asteroid-collision) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Abhik-08/leetcode-solutions/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Abhik-08/leetcode-solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
