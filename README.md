@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Abhik-08/leetcode-solutions/tree/master/0182-duplicate-emails) |
+| [1148-article-views-i](https://github.com/Abhik-08/leetcode-solutions/tree/master/1148-article-views-i) |
 ## Linked List
 |  |
 | ------- |
